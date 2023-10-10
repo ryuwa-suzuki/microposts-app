@@ -22,6 +22,8 @@ gem 'pg', "~> 0.20"
 
 gem 'minitest',                 '5.10.3'
 gem 'minitest-reporters',       '1.1.14'
+gem 'bootstrap-sass', '3.3.7'
+gem 'rails-controller-testing'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
