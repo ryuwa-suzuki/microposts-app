@@ -24,6 +24,7 @@ gem 'minitest',                 '5.10.3'
 gem 'minitest-reporters',       '1.1.14'
 gem 'bootstrap-sass', '3.3.7'
 gem 'rails-controller-testing'
+gem 'bcrypt',         '3.1.12'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
